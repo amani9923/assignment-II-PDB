@@ -15,7 +15,7 @@ TAST2
 VERFY IF IT EXIST
 <img width="748" height="390" alt="image" src="https://github.com/user-attachments/assets/a4ca68b3-9a4a-4717-b38f-596c1da412a5" />
 DELETE COMPLETELY
-<img width="1600" height="857" alt="image" src="https://github.com/user-attachments/assets/a06eefea-a2db-4e07-90ad-e4d6f4a6379b" />
+<img width="625" height="70" alt="image" src="https://github.com/user-attachments/assets/36d86b00-bd03-4199-9f29-f9681d120717" />
 
 CONFIRM THAT IT NO LONGER EXISTS
 <img width="617" height="106" alt="image" src="https://github.com/user-attachments/assets/e8673bdf-d32a-4028-9b31-6636f7dfe2f7" />
