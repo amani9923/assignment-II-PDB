@@ -19,3 +19,6 @@ DELETE COMPLETELY
 
 CONFIRM THAT IT NO LONGER EXISTS
 <img width="617" height="106" alt="image" src="https://github.com/user-attachments/assets/e8673bdf-d32a-4028-9b31-6636f7dfe2f7" />
+
+TASK 3
+<img width="1600" height="847" alt="image" src="https://github.com/user-attachments/assets/fbf9ef8a-0be9-4c49-905a-e18dca4df6d9" />
